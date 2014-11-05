@@ -60,11 +60,13 @@ void draw(){
    stroke(black,50);
    fill(white);
   ns.run();
-//saveFrame("images/nodes-####.jpg");
-//  noLoop();
 
   fill(white);
   noStroke();
   rect(0,0,250,100);
+  
+//saveFrame("images/nodes-####.jpg");
+//  noLoop();
+
 }
 

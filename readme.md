@@ -1,7 +1,9 @@
 #create connected nodes in processing. Nuff said?
 
+
 needs [controlP5](http://www.sojamo.de/libraries/controlP5/)!  
 
+![](nodes.jpg)  
 under MIT License  
 Copyright (c)  2012- 2014 Fabian "fabiantheblind" Morón Zirfas  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
